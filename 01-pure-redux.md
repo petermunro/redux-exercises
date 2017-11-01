@@ -2,7 +2,7 @@
 
 In this exercise you will look at Redux only, without any React or even a UI (apart from a terminal console).
 
-1. Clone this repo: <https://github.com/petermunro/redux-only>
+1. Clone this repo, install and run it: <https://github.com/petermunro/redux-only>
 
 1. Now look through the source file `src/index.js`, and answer:
 

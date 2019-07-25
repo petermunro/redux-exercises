@@ -10,7 +10,7 @@ The _towers_ app displays a tower with two buttons: _Add_ and _Delete_, which ad
 
 Its purpose is as a teaching aid in learning Redux. :-)
 
-1. View the action types (`src/actionTypes.js`)
+1. View the action types (`src/redux/actionTypes.js`)
 
 1. This app doesn't (yet) use `react-redux`. How is the view updated?
 

@@ -22,7 +22,7 @@ Install redux and react-redux:
 
 Create the store. To do this, create a new file, `store.js`.
 
-1. Import `createStore` from react.
+1. Import `createStore` from redux.
 2. Import `towersReducer` from your reducers file (which you will create in the next step).
 3. Initialize the store by calling `createStore` and passing it your reducer.
 
